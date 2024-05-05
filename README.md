@@ -35,13 +35,13 @@ To run **GameX** locally, run this command on your git bash:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/gamex.git
+sudo git clone https://github.com/ABDUL-REHMAN345/GameX.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/gamex.git
+git clone https://github.com/ABDUL-REHMAN345/GameX.git
 ```
 
 ### Contact
